@@ -48,7 +48,7 @@ Los notebooks están pensados para ejecutarse en **Google Colab**.
 
 Antes de comenzar:
 
-1. Abrir el enlace compartido de la carpeta **TIMMD**.
+1. Abrir el enlace compartido de la carpeta **TIMMD**: https://drive.google.com/drive/u/0/folders/1JCn2VRcg4vnjB5G0cq40gpGMgddG1PQR
 2. Crear un **Acceso directo** dentro de **Mi unidad** de Google Drive.
 3. **No modificar el nombre de la carpeta.**
 
